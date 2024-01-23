@@ -1,6 +1,5 @@
 <h3>Hi there👋, Welcome!</h3>
 
-<img width="603" alt="git pic2" src="https://github.com/tharuuj/tharuuj/assets/128963025/15c8c5dd-69d3-4d52-87c9-e5a1e3814e65">
 
 Hello!👋 My name is **Tharushi Jayasooriya**, an enthusiastic undergraduate at SLIIT pursuing a BS Honours in Information Technology specializing in Software Engineering. 
 
